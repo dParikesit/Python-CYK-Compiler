@@ -1,11 +1,6 @@
-# Python Compiler Based on FA and CFG
+# Python Syntax Checker Based on FA and CFG
 
-> _Program Ini Dibuat Untuk Memenuhi Tugas Perkuliahan Mata Kuliah Teori Bahasa Formal dan Otomata(IF2124)_ 
->
-> _Program Studi Teknik Informatika 
-> Sekolah Teknik Elektro dan Informatika 
-> Institut Teknologi Bandung 
-> Semester I Tahun 2021/2022_
+> _This is a mirror repo with english README_ 
 
 ## Table of Contents
 * [Installation](#installation)
@@ -14,23 +9,15 @@
 
 ## Installation
 
-1. Pastikan file input berada di folder yang sama dengan main.py
-2. Jalankan main.py
-3. Masukkan nama file yang ingin dicompile
-4. Jika file input berada di folder yang berbeda, tambahkan "dir/" didepan nama file
-5. Hasil compile akan keluar di terminal
+1. Make sure input file is in the same folder as main.py
+2. Run main.py
+3. Input file name that you want to compile
+4. Check the result in the terminal
 
 
 ## Usage
-### File input berada di folder yang sama
 ```bash
 Masukkan nama file: test.py
-Accepted
-```
-
-### File input berada di folder yang berbeda
-```bash
-Masukkan nama file: TesCase/TC02.py
 Accepted
 ```
 
